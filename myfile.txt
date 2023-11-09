@@ -1,0 +1,4 @@
+This is line one.
+This is line two.
+Finally we are in third line and the last line of file
+I am adding 4th line as well
